@@ -6,3 +6,4 @@ num5 = 22
 num6 = 40
 num8 = 28
 num10 = 20
+num0 = 2
